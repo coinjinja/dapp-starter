@@ -26,4 +26,4 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [CoinView SDK page](https://www.coinjinja.com/coinview-sdk) for registering your first dApp and documents.
